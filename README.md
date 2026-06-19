@@ -1,5 +1,6 @@
 # 💫 About Me:
 I am an enthusiastic Electronics and Communication Engineering <br>student with a strong interest in VLSI Design and IC Design. <br>I enjoy learning about semiconductor technologies, <br>digital system design, FPGA development, and chip verification. <br>My goal is to build efficient and scalable hardware systems <br>while continuously improving my design and problem-solving skills.<br><br>🎓 Pursuing studies in Electronics / VLSI / IC Design<br>🔭 Currently working on digital design and Verilog projects<br>🌱 Learning RTL Design, Physical Design, and Verification flows<br>💡 Interested in ASIC Design, FPGA Prototyping, and Semiconductor Technology<br>📚 Exploring tools like Cadence, Xilinx Vivado, ModelSim, and Synopsys tools<br>⚡ Passionate about low-power and high-performance chip design
+<img width="736" height="736" alt="578149670955278354" src="https://github.com/user-attachments/assets/4af248dd-3257-4b6e-980f-9cbd84b1a17a" />
 
 
 ## 🌐 Socials:
